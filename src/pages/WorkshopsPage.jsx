@@ -5,7 +5,6 @@ import {
   Heading,
   SimpleGrid,
 } from "@chakra-ui/react";
-import ReactPlayer from "react-player";
 
 const WorkShopsPage = () => {
   return (
