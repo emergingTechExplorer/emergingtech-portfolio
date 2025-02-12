@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <NavBar />
+      <HomePage />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/workshops" element={<WorkShopsPage />} />
